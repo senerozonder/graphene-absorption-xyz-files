@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains XYZ format files for various molecular structures used in the research study titled "Rapid Discovery of Graphene Nanocrystals Using DFT and Bayesian Optimization with Neural Network Kernel." These files are provided to facilitate reproducibility and further research in the field.
+This repository contains XYZ format files for various molecular structures used in the research study titled "Rapid Discovery of Graphene Nanocrystals Using DFT and Bayesian Optimization with Neural Network Kernel" as well as graphene absorption spectra and Bayesian optimization code. These files are provided to facilitate reproducibility and further research in the field.
 
 Each XYZ file includes the atomic coordinates and element types for the corresponding molecule.
 
